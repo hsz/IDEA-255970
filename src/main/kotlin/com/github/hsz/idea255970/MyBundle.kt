@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.hsz.idea255970
 
 
 import com.intellij.AbstractBundle
